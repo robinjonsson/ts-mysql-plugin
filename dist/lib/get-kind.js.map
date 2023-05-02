@@ -1,0 +1,1 @@
+{"version":3,"file":"get-kind.js","sourceRoot":"","sources":["../../src/lib/get-kind.ts"],"names":[],"mappings":";;AAAA,oEAAkE;AAElE,SAAgB,OAAO,CAAC,IAAoC;IAC1D,QAAQ,IAAI,EAAE;QACZ,KAAK,SAAS;YACZ,OAAO,mCAAiB,CAAC,OAAO,CAAA;QAClC,KAAK,OAAO;YACV,OAAO,mCAAiB,CAAC,YAAY,CAAA;QACvC,KAAK,QAAQ;YACX,OAAO,mCAAiB,CAAC,qBAAqB,CAAA;KACjD;AACH,CAAC;AATD,0BASC"}
