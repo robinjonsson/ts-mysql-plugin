@@ -9,7 +9,7 @@ import {
   CompletionInfo
 } from 'typescript/lib/tsserverlibrary'
 import { MySQLAutocomplete } from 'ts-mysql-autocomplete'
-import { MySQLSchema, Schema } from 'ts-mysql-schema'
+import { MySQLSchema, Schema } from 'ts-mysql-schema-fork'
 import { MySQLAnalyzer } from 'ts-mysql-analyzer'
 import MySQLParser, {
   ReferenceType,

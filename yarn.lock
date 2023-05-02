@@ -5519,6 +5519,15 @@ ts-mysql-parser@^0.2.0:
     antlr4ts "^0.5.0-alpha.3"
     typescript "^3.8.3"
 
+ts-mysql-schema-fork@robinjonsson/ts-mysql-schema:
+  version "0.0.3"
+  resolved "https://codeload.github.com/robinjonsson/ts-mysql-schema/tar.gz/05b934cb39ec697ea6f68fca1929d6f6a71e6016"
+  dependencies:
+    mysql2 "^2.1.0"
+    sql-template-tag "^3.3.0"
+    ts-mysql-uri "^0.0.2"
+    typescript "^3.8.3"
+
 ts-mysql-schema@^0.0.3:
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/ts-mysql-schema/-/ts-mysql-schema-0.0.3.tgz#87aea5363cd0478a3de43fd2ebe5d6375e30f3c7"

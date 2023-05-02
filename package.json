@@ -79,6 +79,7 @@
     "ts-mysql-analyzer": "^0.3.0",
     "ts-mysql-autocomplete": "^0.0.2",
     "ts-mysql-parser": "^0.1.2",
+    "ts-mysql-schema-fork": "robinjonsson/ts-mysql-schema",
     "ts-simple-type": "^0.3.7",
     "typescript": "^3.7.4",
     "typescript-template-language-service-decorator": "git+ssh://git@github.com/segmentio/typescript-template-language-service-decorator"
